@@ -69,7 +69,9 @@ export const quotes = [
   { text: "I want a cat", credit: "-Erin" },
   { text: "She is very gorgeous to me!", credit: "-Tommy" },
   { text: "He was number one!", credit: "-Spongebob" },
-  { text: "She's a baddie", credit: "-Tommy" }
+  { text: "She's a baddie", credit: "-Tommy" },
+  { text: "Snackie Snack", credit: "-Both of us" },
+  { text: "🦄", credit: "-Both of us" }
 ];
 
 export function staticMapUrl(lat, lng, zoom = 14, width = 640, height = 280) {
